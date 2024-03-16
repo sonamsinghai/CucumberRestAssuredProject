@@ -9,7 +9,7 @@ import io.cucumber.junit.CucumberOptions;
 		glue={"com.Get_datatable_SD"},
 		plugin={"pretty",
 				"html:target/cucumber-htmlreport",
-				"json:target/cucumber-report1.json",
+				"json:target/cucumber-report8.json",
 		}
 		)
 public class Get_datatableRunnerFile {

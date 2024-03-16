@@ -9,7 +9,7 @@ import io.cucumber.junit.CucumberOptions;
 		glue={"com.basic"},//java file path
 		plugin={"pretty",
 				"html:target/cucumber-htmlreport",
-				"json:target/cucumber-report1.json",
+				"json:target/cucumber-report5.json",
 		}
 		)
 public class MyBasicRunnerFile {
