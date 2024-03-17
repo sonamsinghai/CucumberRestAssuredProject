@@ -1,3 +1,4 @@
+@regression																				//regression tag is used to run all the test cases
 Feature: Put request testing
 
 Scenario: 1Put request validation
